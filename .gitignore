@@ -10,7 +10,7 @@ Dockerfile.dev
 /coverage
 
 # production
-/build
+# /build
 
 Dockerfile.dev
 
