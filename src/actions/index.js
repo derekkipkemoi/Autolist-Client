@@ -29,8 +29,8 @@ import {
   GET_USER_FAVOURITE,
 } from "./types";
 
-// const baseUrl = "https://www.autolist.co.ke/api";
-const baseUrl = "http://localhost:5000";
+const baseUrl = "https://autolistapi.herokuapp.com";
+// const baseUrl = "http://localhost:5000";
 
 
 export const signUp = (data) => {
